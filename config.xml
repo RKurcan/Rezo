@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.rkurcan.deckostretch" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Deckostretch</name>
+    <name>Kahveciniz</name>
     <description>
-      Deckostretch mobil uygulamasi
+      Kahveciniz mobil uygulamasi
     </description>
     <author email="remzikurcan@mit.tc" href="http://rkurcan.com">
        Remzi Kurcan
@@ -18,7 +18,7 @@
     <allow-intent href="geo:*" />
     <platform name="android">
         <allow-intent href="market:*" />
-        <icon src="www/dayi.png" />
+        <icon src="www/kahveciniz.png" />
     </platform>
     <platform name="ios">
         <allow-intent href="itms:*" />
