@@ -18,6 +18,6 @@
     <allow-intent href="geo:*" />
     <platform name="android">
         <allow-intent href="market:*" />
-        <icon src="www/hayal.png" />
+        <icon src="www/hayalk.png" />
     </platform>
 </widget>
